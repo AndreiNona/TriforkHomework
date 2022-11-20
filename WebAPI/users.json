@@ -1,0 +1,79 @@
+[
+  {
+    "username": "Andrei",
+    "lName": "Ioanas",
+    "role": "Dev",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "id": 1
+  },
+  {
+    "username": "Kayne",
+    "lName": "Bostock",
+    "role": "Admin",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "id": 2
+  },
+  {
+    "username": "Gideon",
+    "lName": "Carter",
+    "role": "User",
+    "description": "Etiam tempus lacus sit amet lectus aliquet, vel dictum felis luctus.",
+    "id": 3
+  },
+  {
+    "username": "Henry",
+    "lName": "Solomon",
+    "role": "User",
+    "description": "Quisque sed nunc posuere, auctor eros sed, iaculis turpis.",
+    "id": 4
+  },
+  {
+    "username": "Aqsa",
+    "lName": "Sanford",
+    "role": "User",
+    "description": "Aliquam scelerisque nisi vel erat ullamcorper, tempor vehicula turpis venenatis.",
+    "id": 5
+  },
+  {
+    "username": "swagger1",
+    "lName": "swagger1",
+    "role": "swagger1",
+    "description": "swagger1",
+    "id": 6
+  },
+  {
+    "username": "swagger2",
+    "lName": "swagger2",
+    "role": "swagger2",
+    "description": "swagger2",
+    "id": 7
+  },
+  {
+    "username": "postman1",
+    "lName": "postman1",
+    "role": "postman1",
+    "description": "postman1",
+    "id": 8
+  },
+  {
+    "username": "swagger3",
+    "lName": "swagger3",
+    "role": "swagger3",
+    "description": "swagger3",
+    "id": 9
+  },
+  {
+    "username": "React1",
+    "lName": "React1",
+    "role": "Admin",
+    "description": "React1",
+    "id": 10
+  },
+  {
+    "username": "React2",
+    "lName": "React2",
+    "role": "Admin",
+    "description": "React2",
+    "id": 11
+  }
+]
